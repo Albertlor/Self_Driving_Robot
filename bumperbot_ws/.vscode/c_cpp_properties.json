@@ -7,7 +7,7 @@
             },
             "includePath": [
                 "/opt/ros/humble/include/**",
-                "/home/albertlor/Academic/Self_Driving_Robot/bumperbot_ws/src/bumperbot_cpp_examples/include/**",
+                "/home/albertlor/Academic/self_driving_robot/bumperbot_ws/src/bumperbot_cpp_examples/include/**",
                 "/usr/include/**",
                 "/opt/ros/humble/include/rclcpp"
             ],

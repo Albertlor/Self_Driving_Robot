@@ -1,5 +1,5 @@
 CMakeFiles/simple_publisher.dir/src/simple_publisher.cpp.o: \
- /home/albertlor/Academic/Self_Driving_Robot/bumperbot_ws/src/bumperbot_cpp_examples/src/simple_publisher.cpp \
+ /home/albertlor/Academic/self_driving_robot/bumperbot_ws/src/bumperbot_cpp_examples/src/simple_publisher.cpp \
  /usr/include/stdc-predef.h \
  /opt/ros/humble/include/rclcpp/rclcpp/rclcpp.hpp \
  /usr/include/c++/11/csignal \

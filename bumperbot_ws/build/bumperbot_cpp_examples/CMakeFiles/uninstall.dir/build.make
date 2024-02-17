@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/albertlor/Academic/Self_Driving_Robot/bumperbot_ws/src/bumperbot_cpp_examples
+CMAKE_SOURCE_DIR = /home/albertlor/Academic/self_driving_robot/bumperbot_ws/src/bumperbot_cpp_examples
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/albertlor/Academic/Self_Driving_Robot/bumperbot_ws/build/bumperbot_cpp_examples
+CMAKE_BINARY_DIR = /home/albertlor/Academic/self_driving_robot/bumperbot_ws/build/bumperbot_cpp_examples
 
 # Utility rule file for uninstall.
 
@@ -78,6 +78,6 @@ CMakeFiles/uninstall.dir/clean:
 .PHONY : CMakeFiles/uninstall.dir/clean
 
 CMakeFiles/uninstall.dir/depend:
-	cd /home/albertlor/Academic/Self_Driving_Robot/bumperbot_ws/build/bumperbot_cpp_examples && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/albertlor/Academic/Self_Driving_Robot/bumperbot_ws/src/bumperbot_cpp_examples /home/albertlor/Academic/Self_Driving_Robot/bumperbot_ws/src/bumperbot_cpp_examples /home/albertlor/Academic/Self_Driving_Robot/bumperbot_ws/build/bumperbot_cpp_examples /home/albertlor/Academic/Self_Driving_Robot/bumperbot_ws/build/bumperbot_cpp_examples /home/albertlor/Academic/Self_Driving_Robot/bumperbot_ws/build/bumperbot_cpp_examples/CMakeFiles/uninstall.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/albertlor/Academic/self_driving_robot/bumperbot_ws/build/bumperbot_cpp_examples && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/albertlor/Academic/self_driving_robot/bumperbot_ws/src/bumperbot_cpp_examples /home/albertlor/Academic/self_driving_robot/bumperbot_ws/src/bumperbot_cpp_examples /home/albertlor/Academic/self_driving_robot/bumperbot_ws/build/bumperbot_cpp_examples /home/albertlor/Academic/self_driving_robot/bumperbot_ws/build/bumperbot_cpp_examples /home/albertlor/Academic/self_driving_robot/bumperbot_ws/build/bumperbot_cpp_examples/CMakeFiles/uninstall.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/uninstall.dir/depend
 
